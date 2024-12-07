@@ -1,0 +1,6 @@
+[submodule "Lab-Management-System-"]
+	path = Lab-Management-System-
+	url = https://github.com/Dalius159/Lab-Management-System-.git
+[submodule "Labo-frontend"]
+	path = Labo-frontend
+	url = https://github.com/Dalius159/Labo-frontend.git
